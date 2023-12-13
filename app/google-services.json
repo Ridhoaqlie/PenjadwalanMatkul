@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922582233265",
+    "project_id": "penjadwalan-c3b6a",
+    "storage_bucket": "penjadwalan-c3b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922582233265:android:ef4fdf50b8339f668a7290",
+        "android_client_info": {
+          "package_name": "com.kelompok6.penjadwalan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922582233265-mq1pcp2dqv7saa2b3e25er7uidnn4os1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok6.penjadwalan",
+            "certificate_hash": "410ede70feb4d5540fee15f7d4d4de04c4fcac4a"
+          }
+        },
+        {
+          "client_id": "922582233265-up0nviojnrbbr51ohnks1lcrje54alou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCK_B10g9WJLLcSsG4ZHv80iVowcWfYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922582233265-up0nviojnrbbr51ohnks1lcrje54alou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
